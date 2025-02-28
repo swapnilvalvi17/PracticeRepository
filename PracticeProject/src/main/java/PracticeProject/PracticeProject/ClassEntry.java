@@ -11,6 +11,8 @@ public class ClassEntry {
 		System.out.println("feature update 2");
 		
 		System.out.print(false);
+		
+		System.out.println("feature update 3");
 	}
 
 }
