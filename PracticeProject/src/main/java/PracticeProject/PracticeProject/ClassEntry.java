@@ -9,6 +9,8 @@ public class ClassEntry {
 		System.out.println("Second update from master branch");
 		
 		System.out.println("feature update 2");
+		
+		System.out.print(false);
 	}
 
 }
