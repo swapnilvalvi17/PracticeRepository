@@ -17,6 +17,8 @@ public class ClassEntry {
 		System.out.println("fourth update from master branch");
 		
 		System.out.println("feature update 4");
+		
+		System.out.println("5th update from master branch");
 	}
 
 }
