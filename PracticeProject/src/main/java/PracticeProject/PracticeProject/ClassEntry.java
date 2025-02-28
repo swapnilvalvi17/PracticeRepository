@@ -5,6 +5,8 @@ public class ClassEntry {
 		System.out.println("Master branch is created");
 		
 		System.out.println("feature branch update 1");
+		
+		System.out.println("Second update from master branch");
 	}
 
 }
